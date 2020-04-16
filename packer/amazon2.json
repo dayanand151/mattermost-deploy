@@ -40,9 +40,7 @@
             "type": "shell",
             "inline": [ "cd /home/ec2-user/ansible && ansible-playbook bake.yml" ]
         }
-  ]
-},
-
+  ],
 
   "builders": [{
     "type": "amazon-ebs",
